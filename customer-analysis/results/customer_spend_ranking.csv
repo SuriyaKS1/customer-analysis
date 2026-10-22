@@ -1,0 +1,13 @@
+CustomerID,CustomerName,Region,Segment,Orders,TotalSpend,LastPurchaseDaysAgo
+C012,Lakshmi,Chennai,Premium,9,108000,3
+C002,Priya,Bangalore,Premium,8,96000,5
+C006,Divya,Chennai,Premium,7,77000,9
+C008,Anu,Bangalore,Premium,6,69000,15
+C001,Arun,Chennai,Regular,5,42000,12
+C004,Meena,Hyderabad,Regular,4,28000,18
+C010,Nila,Hyderabad,Regular,3,22500,21
+C005,Rahul,Bangalore,Regular,3,19500,40
+C009,Sanjay,Chennai,Regular,2,14000,33
+C011,Hari,Bangalore,New,1,8000,75
+C003,Kavin,Chennai,New,1,6500,25
+C007,Vijay,Hyderabad,New,1,4500,60
